@@ -1,7 +1,8 @@
-![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
-<h1 align="center">Hi 👋, I'm Raman Verms</h1>
+![MasterHead](https://github.com/ramanverma1807/Programes/blob/master/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner%20(1).gif)
+<h1 align="center">Hi 👋, I'm Raman Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+<img align="right" alt="coding gif" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramanverma1807&label=Profile%20views&color=0e75b6&style=flat" alt="ramanverma" /> </p>
@@ -11,19 +12,88 @@
 - 🔭 I’m currently working on **KSBCL**
 
 - 🌱 I’m currently learning **Multithreading**
-
+  
 - 💬 Ask me about **Java,Spring Boot,Oracle DB Html,css,JavaScript**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ramanverma1807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramanverma1807" height="30" width="40" /></a>
-</p>
+- - 📫 How to reach me **raman1807925@gmail.com**
+
+
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🛠️ Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramanverma1807&show_icons=true&locale=en&layout=compact" alt="ramanverma1807" /></p>
+<p align="left">
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  
+  <!-- Spring Boot (use Spring logo as proxy) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  
+  <!-- JSP -->
+  <img src="https://img.shields.io/badge/JSP-%23f7df1e.svg?style=for-the-badge&logo=java&logoColor=white" alt="JSP"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramanverma1807&show_icons=true&locale=en" alt="ramanverma1807" /></p>
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  
+  <!-- AJAX -->
+  <img src="https://img.shields.io/badge/AJAX-blue?style=for-the-badge" alt="AJAX"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramanverma1807&" alt="ramanverma1807" /></p>
+  <!-- JQuery -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/>
+  
+  <!-- Oracle -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle DB" width="40" height="40"/>
+  
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  
+  <!-- RESTful APIs -->
+  <img src="https://img.shields.io/badge/RESTful-API-green?style=for-the-badge" alt="RESTful APIs"/>
+
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  
+  <!-- Postman -->
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  
+  <!-- Jasper Report -->
+  <img src="https://img.shields.io/badge/JasperReports-gray?style=for-the-badge" alt="Jasper Reports"/>
+
+  <!-- PLSQL -->
+  <img src="https://img.shields.io/badge/PLSQL-Oracle-red?style=for-the-badge" alt="PLSQL"/>
+
+  <!-- JDBC -->
+  <img src="https://img.shields.io/badge/JDBC-Java-yellow?style=for-the-badge" alt="JDBC"/>
+
+  <!-- J2EE -->
+  <img src="https://img.shields.io/badge/J2EE-Java-blue?style=for-the-badge" alt="J2EE"/>
+</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+<p><img style="width:49%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramanverma1807&show_icons=true&locale=en&layout=compact" alt="ramanverma1807" /></p>
+
+<p>&nbsp;<img style="width:49%" align="center" src="https://github-readme-stats.vercel.app/api?username=ramanverma1807&show_icons=true&locale=en" alt="ramanverma1807" /></p>
+
+<p><img style="width:49%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramanverma1807&" alt="ramanverma1807" /></p>
